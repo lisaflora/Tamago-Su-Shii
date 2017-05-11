@@ -16,7 +16,7 @@ Concept repris du tamagocchi. S'occuper d'un oeuf, qui éclot et prendre soin de
 
 ## TECHNOLOGIES
 
-Jeux développé en Javascript.
+Jeu développé en Javascript.
 
 
 ## DATAS
