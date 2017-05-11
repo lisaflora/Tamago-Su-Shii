@@ -1,10 +1,30 @@
 Projet libre VONGKORAD Lisa-Flora
 
-Sunshine no Nihon
-Concept repris de Cookie Clicker, mais sur le thème du Japon.
-Amasser le plus de sushi possible afin d'en produire toujours plus.
+TamagoChibii
+Concept repris du tamagocchi. S'occuper d'un oeuf, qui éclot et prendre soin de celui ci en intéragissant avec lui.
+Il s'agira de le garder en vie le plus longtemps possible, l'accompagner dans ses différents passage de vie.
 	
+
+
 REGLES 
-- Clicker pour obtenir du sushi.
-- Obtenir des batiments pour produire des 
-- 
+
+- Jouez avec lui, nourrissez le, soignez le.
+
+- Faîtes le évoluez selon la façon dont on s'occupe.
+
+- Devenez son/sa meilleur(e) ami(e) !
+
+
+
+TECHNOLOGIES
+
+Jeux développé en Javascript.
+
+
+DATAS
+
+Enfant
+Adolescent
+Jeune adulte
+Adulte
+Senior
