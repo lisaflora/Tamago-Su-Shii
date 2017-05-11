@@ -8,7 +8,7 @@ Concept repris du tamagotchi. S'occuper d'un oeuf, qui éclot et prendre soin de
 
 - Jouez avec lui, nourrissez le, soignez le.
 
-- Faîtes le évoluez selon la façon dont on s'occupe.
+- Faîtes le évoluez selon la façon dont vous vous occupez de lui.
 
 - Devenez son/sa meilleur(e) ami(e) !
 
