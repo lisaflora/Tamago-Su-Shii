@@ -1,12 +1,10 @@
-Projet libre VONGKORAD Lisa-Flora
+#TamagoChibii
+###Jeu de gestion sur thème japonais.
 
-TamagoChibii
-Concept repris du tamagocchi. S'occuper d'un oeuf, qui éclot et prendre soin de celui ci en intéragissant avec lui.
-Il s'agira de le garder en vie le plus longtemps possible, l'accompagner dans ses différents passage de vie.
-	
+Concept repris du tamagocchi. S'occuper d'un oeuf, qui éclot et prendre soin de celui ci en intéragissant avec lui.Il s'agira de le grder en vie le plus longtemps possible, l'accompagner dans ses différents passage de vie.
 
 
-REGLES 
+##REGLES 
 
 - Jouez avec lui, nourrissez le, soignez le.
 
@@ -16,15 +14,15 @@ REGLES
 
 
 
-TECHNOLOGIES
+##TECHNOLOGIES
 
 Jeux développé en Javascript.
 
 
-DATAS
+##DATAS
 
-Enfant
-Adolescent
-Jeune adulte
-Adulte
-Senior
+- Enfant
+- Adolescent
+- Jeune adulte
+- Adulte
+- Senior
