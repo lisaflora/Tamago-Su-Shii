@@ -4,7 +4,9 @@
 Concept repris du tamagotchi. S'occuper d'un oeuf, qui éclot et prendre soin de celui ci en intéragissant avec lui. Il s'agira de le garder en vie le plus longtemps possible, l'accompagner dans les différents passages de sa vie.
 
 
-## REGLES 
+## REGLES
+
+- Tapoter votre oeuf pour le faire éclore.
 
 - Jouez avec lui, nourrissez le, soignez le.
 
