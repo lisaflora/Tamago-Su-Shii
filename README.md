@@ -15,8 +15,6 @@ Il s'agira donc de s'occuper d'un oeuf, qui éclot et prendre soin de celui ci e
 
 - Intérragissez avez lui en lui donnant à manger, le soigner, jouer avec lui en le touchant.
 
-- Faîtes le évoluez selon la façon dont vous vous occupez de lui.
-
 - Devenez son/sa meilleur(e) ami(e) !
 
 
