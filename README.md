@@ -5,7 +5,7 @@ Concept repris du tamagotchi. Un Tamagotchi est un animal de compagnie virtuel j
 
 Il s'agira donc de s'occuper d'un oeuf, qui éclot et prendre soin de celui ci en intéragissant avec lui, le garder en vie le plus longtemps possible, l'accompagner dans les différents passages de sa vie.
 
-	![wireframe](http://hpics.li/274f184 "wireframe 1")
+	![wireframe]([URL=https://www.hostingpics.net/viewer.php?id=928137wireframe1.jpg][IMG]https://img4.hostingpics.net/thumbs/mini_928137wireframe1.jpg[/IMG][/URL] "wireframe 1")
 
 
 
