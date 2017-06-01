@@ -3,7 +3,7 @@
 
 Concept repris du tamagotchi. Un Tamagotchi est un animal de compagnie virtuel japonais. Le jeu consiste à simuler l'éducation d'un animal à l'aide d'une petite console miniature, de la taille d'une montre, dotée d'un programme informatique. En appuyant sur des boutons situés autour d'un petit écran vidéo, permet de nourrir, laver et soigner l'animal virtuel pour qu'il « vive » le plus longtemps possible.
 
-Il s'agira donc de s'occuper d'un oeuf, qui éclot et prendre soin de celui ci en intéragissant avec lui, le garder en vie le plus longtemps possible, l'accompagner dans les différents passages de sa vie.
+Il s'agira donc de s'occuper d'un oeuf, qui éclot et prendre soin de celui-ci en intéragissant avec lui, le garder en vie le plus longtemps possible, l'accompagner dans les différents passages de sa vie.
 
 	![wireframe](https://img4.hostingpics.net/thumbs/mini_928137wireframe1.jpg "wireframe 1")
 
